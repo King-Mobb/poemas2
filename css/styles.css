@@ -1,0 +1,27 @@
+h1 {
+font-size: 72px;
+text-align: center;
+margin-top: 50px;
+color: #081fe5;
+}
+
+h3 {
+  font-style: normal;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: #e52f08;
+}
+
+pre {
+font-size: 20px;
+text-align: left;
+margin-left: 500px;
+margin-top: 50px;
+margin-bottom: 100px;
+}
+
+hr {
+  border: 3px solid red;
+}
